@@ -1,1 +1,3 @@
-Hey
+if you = "help";
+bot = "Các lệnh";
+print (bot);
